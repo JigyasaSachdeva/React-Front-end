@@ -1,4 +1,4 @@
-# React-Front-end
+# React-JavaScript
 
 - cflform
   1. The front end has been created using React JavaScript
@@ -10,5 +10,5 @@
   2. A javascript code is embedded on the button to display text whenever the button is clicked
  
 - Like thrice
-  The same javascript code is overloaded thrice to display text whenever the buttons are clicked
+  : The same javascript code is overloaded thrice to display text whenever the buttons are clicked
   
